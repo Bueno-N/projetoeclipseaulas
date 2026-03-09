@@ -1,6 +1,6 @@
 package gestaobiblioteca.model;
 
-public class Usuario{
+public abstract class Usuario implements Autenticavel{
     private int id;
 
     public void setId(int id) {
