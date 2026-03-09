@@ -1,4 +1,4 @@
-package gestaobiblioteca.model.view;
+package gestaobiblioteca.view;
 
 import gestaobiblioteca.model.Usuario;
 

@@ -3,6 +3,20 @@
     "configurations": [
       {
         "type": "java",
+        "name": "TelaUsuario",
+        "request": "launch",
+        "mainClass": "gestaobiblioteca.view.TelaUsuario",
+        "projectName": "projetoeclipseaulas"
+      },
+      {
+        "type": "java",
+        "name": "Teste",
+        "request": "launch",
+        "mainClass": "gestaobiblioteca.Teste",
+        "projectName": "projetoeclipseaulas"
+      },
+      {
+        "type": "java",
         "name": "Principal",
         "request": "launch",
         "mainClass": "agrupamento.Principal",
