@@ -7,7 +7,7 @@ public class TelaUsuario {
         System.out.println("Bem vindo a tela de usuario");
 
         Usuario usuario1 = new Usuario() {
-
+            
         };
 
         usuario1.setId(-2);
